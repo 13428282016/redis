@@ -6,6 +6,8 @@
  * Date: 2016/9/5
  * Time: 16:18
  */
+
+//还没完成，这里清理使用scan去遍历吧。
 class ClearCounter {
 
 

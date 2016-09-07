@@ -25,7 +25,7 @@
       <file leaf-file-name="update_counter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/update_counter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.38709676">
+            <state vertical-scroll-proportion="10.612904">
               <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="true" />
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_counter.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_counter.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/get_counter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1555557">
+            <state vertical-scroll-proportion="0.8348214">
               <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding>
                 <element signature="e#6#83#0#PHP" expanded="true" />
@@ -58,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redis_counter.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="redis_counter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Service/redis_counter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.9109589">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state vertical-scroll-proportion="-9.935484">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="e#6#83#0#PHP" expanded="true" />
               </folding>
@@ -70,12 +70,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clear_counter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task/clear_counter.php">
+      <file leaf-file-name="redis_auto_fill.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Service/redis_auto_fill.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.322582">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-3.580645">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_auto_fill.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/get_auto_fill.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.064516">
+              <caret line="17" column="112" selection-start-line="17" selection-start-column="112" selection-end-line="17" selection-end-column="112" />
+              <folding>
+                <element signature="e#6#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_auto_fill.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/add_auto_fill.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.096774">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#83#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +109,8 @@
       <file leaf-file-name="standard_8.php" pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.741936">
-              <caret line="1136" column="9" selection-start-line="1136" selection-start-column="9" selection-end-line="1136" selection-end-column="9" />
+            <state vertical-scroll-proportion="-11.83871">
+              <caret line="900" column="9" selection-start-line="900" selection-start-column="9" selection-end-line="900" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -93,8 +119,8 @@
       <file leaf-file-name="clear_counter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/clear_counter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.45555556">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state vertical-scroll-proportion="-1.3111111">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,8 +129,8 @@
       <file leaf-file-name="Redis.php" pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Redis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2486" column="29" selection-start-line="2486" selection-start-column="29" selection-end-line="2486" selection-end-column="29" />
+            <state vertical-scroll-proportion="-2.6065574">
+              <caret line="3067" column="71" selection-start-line="3067" selection-start-column="70" selection-end-line="3067" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -121,11 +147,14 @@
         <option value="$PROJECT_DIR$/Service/redis.php" />
         <option value="$PROJECT_DIR$/public/redis.php" />
         <option value="$PROJECT_DIR$/Task/ClearCounter.php" />
-        <option value="$PROJECT_DIR$/public/clear_counter.php" />
-        <option value="$PROJECT_DIR$/Task/clear_counter.php" />
         <option value="$PROJECT_DIR$/public/get_counter.php" />
         <option value="$PROJECT_DIR$/public/update_counter.php" />
         <option value="$PROJECT_DIR$/Service/redis_counter.php" />
+        <option value="$PROJECT_DIR$/Task/clear_counter.php" />
+        <option value="$PROJECT_DIR$/public/clear_counter.php" />
+        <option value="$PROJECT_DIR$/public/add_auto_fill.php" />
+        <option value="$PROJECT_DIR$/public/get_auto_fill.php" />
+        <option value="$PROJECT_DIR$/Service/redis_auto_fill.php" />
       </list>
     </option>
   </component>
@@ -143,10 +172,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="102" />
+    <option name="y" value="121" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -201,6 +230,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="redis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="102" y="121" width="1936" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -300,7 +333,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2836485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.310219" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -328,9 +361,22 @@
           <url>file://$PROJECT_DIR$/Task/clear_counter.php</url>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="30" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="$prefix[strlen($prefix)-1]-1" language="PHP" />
+        <watch expression="$prefix[strlen($prefix)-1]" language="PHP" />
+        <watch expression="'w'-1" language="PHP" />
+        <watch expression="int('w')-1" language="PHP" />
+        <watch expression="(int)'w'-1" language="PHP" />
+        <watch expression="intval('w')" language="PHP" />
+        <watch expression="ord('w')" language="PHP" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/update_counter.php">
@@ -415,18 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Redis.php">
+    <entry file="file://$PROJECT_DIR$/Task/clear_counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2486" column="29" selection-start-line="2486" selection-start-column="29" selection-end-line="2486" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.741936">
-          <caret line="1136" column="9" selection-start-line="1136" selection-start-column="9" selection-end-line="1136" selection-end-column="9" />
+        <state vertical-scroll-proportion="-13.4838705">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -441,25 +479,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task/clear_counter.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.322582">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.83871">
+          <caret line="900" column="9" selection-start-line="900" selection-start-column="9" selection-end-line="900" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/clear_counter.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Redis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.45555556">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state vertical-scroll-proportion="-2.6065574">
+          <caret line="3067" column="71" selection-start-line="3067" selection-start-column="70" selection-end-line="3067" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service/redis_counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/update_counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.38709676">
+        <state vertical-scroll-proportion="10.612904">
           <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
@@ -467,20 +515,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/get_counter.php">
+    <entry file="file://$PROJECT_DIR$/public/clear_counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1555557">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        <state vertical-scroll-proportion="-1.3111111">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/add_auto_fill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.096774">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="e#6#83#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Service/redis_counter.php">
+    <entry file="file://$PROJECT_DIR$/public/get_auto_fill.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.9109589">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state vertical-scroll-proportion="-12.064516">
+          <caret line="17" column="112" selection-start-line="17" selection-start-column="112" selection-end-line="17" selection-end-column="112" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Service/redis_auto_fill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.580645">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/get_counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8348214">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="e#6#83#0#PHP" expanded="true" />
           </folding>

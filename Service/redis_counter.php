@@ -33,7 +33,7 @@ class RedisCounter {
         return intval($this->conn->hGet($key, $slice));
     }
 
-    
+
     public function getRangeRankingList( $rankKey,$precision,$startAt,$endAt=null ,$offset = 0, $len = null, $start = '+inf', $end = '-inf', $withScores = false) {
 
          $startAt=intval($startAt/$precision)*$precision;
