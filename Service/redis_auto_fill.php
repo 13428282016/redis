@@ -55,7 +55,8 @@ class RedisAutoFill{
     }
     public function getPrefixRange($prefix){
         $end="$prefix{";
-        $start=substr($prefix,0,strlen($prefix)-1).chr(ord($prefix[strlen($prefix)-1])-1)."{";
+        $len=strlen($prefix);
+        $start=substr($prefix,0,$len-1).chr(ord($prefix[$len-1])-1)."{";
         return ['start'=>$start,'end'=>$end];
     }
 
